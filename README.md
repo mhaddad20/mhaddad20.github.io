@@ -16,7 +16,7 @@
 </p>
 
 <!-- hero screenshot -->
-![demo](https://mhaddad20.github.io/packages/images/logo.png)
+![demo](https://mhaddad20.github.io/packages/images/demo.png)
 
 ## Features 📋
 ⚡️ Minimal Design\
